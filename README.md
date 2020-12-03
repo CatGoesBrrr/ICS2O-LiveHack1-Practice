@@ -12,6 +12,6 @@ Write a program that lets you enter a number of hours, and that converts it to d
 Write a program that lets you enter a number of minutes, and that will calculate
 the number of days, hours and minutes that represents (Hint: use the modulus operator).
 
-## Practice 4 - minutes_days.py
+## Practice 4 - windchill.py
 Write a program that gets the temperature(celsius) and wind speed (km/h) then computes and outputs  the windchill factor.  
 ![equation](Tex2Img_1607016221.jpg)
