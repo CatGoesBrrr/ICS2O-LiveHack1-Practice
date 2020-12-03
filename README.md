@@ -1,23 +1,17 @@
-# ICS2O Python Basics Practice
+# ICS2O LiveHack #1 Practice
 
-## Practice 1 - avg_marks.py
-The school office needs to distribute the student report cards.  In addition to 
-individual course marks, the report card should also display the student's average.
-Write a program avg_marks.py which prompts the user to enter the marks for 
-four courses, calculates and then outputs average of the marks.
 
-## Practice 2 - oz_to_ml.py
-A recipe website lists all fluid amounts in ounces, however, your kitchen is only equipped with measuring cups in millilitres(ml).  The website also list recipes based on serving 4 people.  Write a program that will get the amount of a fluid in a recipe in ounces as well as the number of servings that you want cook for.  Considering the number of servings, the program will output the proper amount in millilitres.
+## Practice 1 - f_to_c.py
+Write a program that lets you enter a degree measure in Fahrenheit and prints the result in celsius degree measure.
+![equation](http://www.sciweavers.org/tex2img.php?eq=c%20%3D%20%20%5Cfrac%7B5%7D%7B9%7D%20%28f%20-%2032%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
-#### Example Run
-```
-****** Welcome to the Oz to ml Converter *****
-Enter the amount of fluid in ounces: 32
-Enter the number of people to serve: 8
+## Practice 2 - days_hours.py
+Write a program that lets you enter a number of hours, and that converts it to days and hours. For example, 111 hours = 4 days and 15 hours. (Hint: use the modulus operator).
 
-You will need 1892.71 ml
-```
+## Practice 3 - minutes_days.py
+Write a program that lets you enter a number of minutes, and that will calculate
+the number of days, hours and minutes that represents (Hint: use the modulus operator).
 
-## Practice 3 - cake_jog.py
-A piece of cake contains about 225 calories . Jogging one 1 km uses about 100 calories. Write a program `cake_jog.py` that ask how many pieces of cake you have eaten and tells you how far you must jog to burn up the calories.
-
+## Practice 4 - minutes_days.py
+Write a program that gets the temperature(celsius) and wind speed (km/h) then computes and outputs  the windchill factor.  
+![equation](http://www.sciweavers.org/tex2img.php?eq=wc%20%3D%2013.12%20%2B%20%280.6215%20%20%5Ctimes%20%20T%29%20-%20%2811.37%20%20%5Ctimes%20%20V%5E%7B0.16%7D%20%29%20%2B%20%28.3965%20%20%5Ctimes%20%20T%20%20%5Ctimes%20%20V%5E%7B0.16%7D%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
