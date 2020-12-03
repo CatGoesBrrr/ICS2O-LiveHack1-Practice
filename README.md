@@ -14,4 +14,4 @@ the number of days, hours and minutes that represents (Hint: use the modulus ope
 
 ## Practice 4 - minutes_days.py
 Write a program that gets the temperature(celsius) and wind speed (km/h) then computes and outputs  the windchill factor.  
-![equation](http://www.sciweavers.org/tex2img.php?eq=wc%20%3D%2013.12%20%2B%20%280.6215%20%20%5Ctimes%20%20T%29%20-%20%2811.37%20%20%5Ctimes%20%20V%5E%7B0.16%7D%20%29%20%2B%20%280.3965%20%20%5Ctimes%20%20T%20%20%5Ctimes%20%20V%5E%7B0.16%7D%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![equation](Tex2Img_1607016221.jpg)
